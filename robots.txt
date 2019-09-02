@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: http://www.mon-domaine.fr/sitemap.xml
+Sitemap: https://www.gallex.is/sitemap.xml
 Allow: /
